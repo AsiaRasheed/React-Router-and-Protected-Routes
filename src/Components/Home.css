@@ -1,0 +1,59 @@
+/* HomePage.css */
+.home-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .hero-section {
+    background-color: #3498db;
+    color: #fff;
+    padding: 50px;
+  }
+  
+  .hero-title {
+    font-size: 36px;
+  }
+  
+  .hero-description {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .cta-button {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 8px;
+  }
+  
+  .cta-button:hover {
+    background-color: #c0392b;
+  }
+  
+  .featured-content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+  }
+  
+  .content-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(241, 250, 250);
+  }
+  
+  .content-card h2 {
+    font-size: 24px;
+  }
+  
+  .content-card p {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
